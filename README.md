@@ -10,7 +10,7 @@ Simple Guard Menu
 
             Enable/Disable TeamBlock
             Enable/Disable FriendlyFire
-            Mute Prisoners for one minute (Once a round)
+            Mute Prisoners for x minute (Once a round)
             Extend current time left with five minute (Once a round)
             Tag/UnTag a player with green color
             100% Translatability (Default: English and Hungarian)
@@ -21,6 +21,7 @@ Simple Guard Menu
 
             sm_gm_enabled - Enable the guardmenu system?
             sm_gm_mute - Enable prisoner mute part?
+            sm_gm_mute_duration - Duration to mute for?
             sm_gm_extend - Enable time extend part?
             sm_gm_tagging - Enable player tagging part?
 
