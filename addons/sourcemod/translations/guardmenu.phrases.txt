@@ -7,6 +7,7 @@
 		"en"		"The {1} is avaliable with the {2} or {3} command."
 		"ro"		"{1} este disponibil cu comenzile {2} si {3}"
 		"fr"		"{1} est disponible avec la commande {2} ou {3}."
+		"ru"		"{1} доступна с помощью команды {2} или {3}."
 	}
 	"TurnedOff"
 	{
@@ -15,6 +16,7 @@
 		"en"		"The {1} is disabled."
 		"ro"		"{1} este dezactivat"
 		"fr"		"{1} est désactivé"
+		"ru"		"{1} отключена."
 	}
 	"MustBeAlive"
 	{
@@ -22,6 +24,7 @@
 		"en"		"You must be alive to use this command."
 		"ro"		"Trebuie sa fii in viata pentru a utiliza aceasta comanda"
 		"fr"		"Tu dois être en vie pour utiliser cette commande."
+		"ru"		"Вы должны быть живы, чтобы использовать эту команду."
 	}
 	"MustBeInGame"
 	{
@@ -29,6 +32,7 @@
 		"en"		"The command can be used in game only."
 		"ro"		"Comanda poate fi utilizata doar in joc"
 		"fr"		"Cette commande ne peut être utiliser qu'en jeu."
+		"ru"		"Команду можно использовать только в игре."
 	}
 	"OnlyGuards"
 	{
@@ -37,6 +41,7 @@
 		"en"		"The {1} is avaliable in {2} side only."
 		"ro"		"{1} este disponibil doar pentru echipa {2}"
 		"fr"		"{1} est disponible uniquement en {2}"
+		"ru"		"{1} доступна только на стороне {2}."
 	}
 	"TeamBlockOff"
 	{
@@ -44,6 +49,7 @@
 		"en"		"Turn off TeamBlock"
 		"ro"		"Opreste TeamBlock"
 		"fr"		"Désactivé le TeamBlock"
+		"ru"		"Отключить столкновение между союзниками"
 	}
 	"TeamBlockOn"
 	{
@@ -51,6 +57,7 @@
 		"en"		"Turn on TeamBlock"
 		"ro"		"Porneste TeamBlock"
 		"fr"		"Activé le TeamBlock"
+		"ru"		"Включить столкновение между союзниками"
 	}
 	"FriendlyFireOff"
 	{
@@ -58,6 +65,7 @@
 		"en"		"Turn off FriendlyFire"
 		"ro"		"Opreste FriendlyFire"
 		"fr"		"Désactivé le FriendlyFire"
+		"ru"		"Отключить огонь по своим"
 	}
 	"FriendlyFireOn"
 	{
@@ -65,6 +73,7 @@
 		"en"		"Turn on FriendlyFire"
 		"ro"		"Porneste FriendlyFire"
 		"fr"		"Activé le FriendlyFire"
+		"ru"		"Включить огонь по своим"
 	}
 	"RoundExtend"
 	{
@@ -72,6 +81,7 @@
 		"en"		"Extend RoundTime with 5 minutes"
 		"ro"		"Extinde durata rundei cu 5 minute"
 		"fr"		"Durée du round étendu de 5 minutes"
+		"ru"		"Продлить время раунда на 5 минут"
 	}
 	"MutePrisoners"
 	{
@@ -79,6 +89,7 @@
 		"en"		"Mute Prisoners for 1 minute"
 		"ro"		"Acorda mute Prizonierilor pentru 1 minut"
 		"fr"		"Mute les prisonniers pendant 1 minute"
+		"ru"		"Заглушить заключённых на 1 минуту"
 	}
 	"TagPlayer"
 	{
@@ -86,6 +97,7 @@
 		"en"		"Tag player"
 		"ro"		"Tag unui player"
 		"fr"		"Tag un joueur"
+		"ru"		"Отметить игрока"
 	}
 	"UnTagPlayer"
 	{
@@ -93,6 +105,7 @@
 		"en"		"UnTag Player"
 		"ro"		"unTag unui player"
 		"fr"		"UnTag un joueur"
+		"ru"		"Убрать отметку с игрока"
 	}
 	"TeamBlockTurnedOff"
 	{
@@ -100,6 +113,7 @@
 		"en"		"turned off the TeamBlock."
 		"ro"		"TeamBlock oprit"
 		"fr"		"Teamblock désactivé"
+		"ru"		"выключил столкновение между союзниками."
 	}
 	"TeamBlockTurnedOn"
 	{
@@ -107,6 +121,7 @@
 		"en"		"turned on the TeamBlock."
 		"ro"		"TeamBlock pornit"
 		"fr"		"TeamBlock activé"
+		"ru"		"включил столкновение между союзниками."
 	}
 	"FriendlyFireTurnedOff"
 	{
@@ -114,6 +129,7 @@
 		"en"		"turned off the FriendlyFire."
 		"ro"		"FriendlyFire oprit"
 		"fr"		"FriendlyFie désactivé"
+		"ru"		"выключил огонь по своим."
 	}
 	"FriendlyFireTurnedOn"
 	{
@@ -121,6 +137,7 @@
 		"en"		"turned on the FriendlyFire."
 		"ro"		"FriendlyFire pornit"
 		"fr"		"FriendlyFire activé"
+		"ru"		"включил огонь по своим."
 	}
 	"RoundExtended"
 	{
@@ -128,6 +145,7 @@
 		"en"		"added 5 minute to the RoundTime."
 		"ro"		"au fost adaugate 5 minute acestei runde"
 		"fr"		"ajout de 5 minutes au temps du round"
+		"ru"		"добавил 5 минут к времени раунда."
 	}
 	"ExtendDenied"
 	{
@@ -135,6 +153,7 @@
 		"en"		"You can't extend the RoundTime in the last 5 seconds."
 		"ro"		"Nu poti extinde durata rundei in ultimele 5 secunde"
 		"fr"		"Tu ne peux pas étendre le round dans les 5 dernières minutes"
+		"ru"		"Вы не можете продлить время раунда за последние 5 секунд."
 	}
 	"PrisonersMuted"
 	{
@@ -142,6 +161,7 @@
 		"en"		"has muted the Prisoners for one minute."
 		"ro"		"a acordat mute Prizonierilor pentru 1 minut"
 		"fr"		"a mute un prisonnier pendant 1 minute"
+		"ru"		"заглушил заключённых на одну минуту."
 	}
 	"MuteDeined"
 	{
@@ -149,6 +169,7 @@
 		"en"		"You can't mute Prisoners in the last one minute."
 		"ro"		"Nu poti acorda mute Prizonierilor in ultimul minut"
 		"fr"		"Tu ne peux pas mute les prisonnier pendant la dernière minute de jeu"
+		"ru"		"Вы не можете заглушить заключённых за последнюю минуту."
 	}
 	"Tagged"
 	{
@@ -157,6 +178,7 @@
 		"en"		"has tagged {1}."
 		"ro"		"tag lui {1}"
 		"fr"		"a tag {1}"
+		"ru"		"отметил {1}."
 	}
 	"UnTagged"
 	{
@@ -165,6 +187,7 @@
 		"en"		"has untagged {1}."
 		"ro"		"untag lui {1}"
 		"fr"		"a enlevé le tag a {1}"
+		"ru"		"убрал отметку с {1}."
 	}
 	"TargetNotFound"
 	{
@@ -173,9 +196,11 @@
 		"en"		"There is no target or it's invalid."
 		"ro"		"Nu este niciun player selectat sau este invalid"
 		"fr"		"Aucune cible valide"
+		"ru"		"Цели нет или она недействительна."
 	}
 	"SelectColor"
 	{
 		"en"		"Select color with aim on player you want to tag."
+		"ru"		"Выберите цвет, нацевшись на игрока, которого хотите отметить."
 	}
 }
